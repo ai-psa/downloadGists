@@ -42,5 +42,3 @@ Despite not being a coder, the process of creating this script was both challeng
 
 Thank you for being a part of our journey to simplify gist downloads for everyone!
 - SJ @ imagined.ai
-
-(Use the following hotkeys for the next message: WASD + QE format)
